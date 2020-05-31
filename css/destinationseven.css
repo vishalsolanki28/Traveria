@@ -1,0 +1,331 @@
+.NAVBAR{
+    background-color: lightcyan;
+    border-radius: 10px;
+    
+}
+    .NAVBAR ul{
+    
+    
+      overflow: auto;
+    }
+    .NAVBAR li a{
+    
+      padding:  1px 1px;
+    color: black;
+    text-decoration: none;
+    -ms-touch-action: manipulation;
+    
+    
+    }
+    
+    
+    .NAVBAR li{
+    
+      float: left;
+        list-style: none;
+        padding: 1px 1px;
+    margin: 20px 10px;
+ 
+      }
+      
+      
+      .buttons
+      {
+        
+        position: absolute;
+        right: 30px;
+        top: 18px;
+        color: black;
+        padding: 3px 3px;
+        margin: 20px 15px;
+      }
+.mumbai{
+    background-image: url(../photos/MUMBAI.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.mumbd{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 1cm;
+color: white;
+background-color: #0009;
+height: 3.85cm;
+font-weight: 800;    
+}
+
+.ajn{
+     background-image: url(../photos/ajanta.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.ajni{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1cm;
+color: white;
+background-color: #0009;
+height: 3.85cm;
+font-weight: 800; 
+
+}
+.maha{ 
+    
+    background-image: url(../photos/maha.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.mahai{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+.BHEDAGHAT{ 
+    
+    background-image: url(../photos/BHEDAGHAT.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.bhedi
+{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;
+}
+
+
+.panch{ 
+    
+    background-image: url(../photos/PACHMARHI.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.panchi
+{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;
+}
+
+.kana{ 
+    
+    background-image: url(../photos/kanha-national-park.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.kanai
+{
+    font-size: 1.2cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1cm;
+color: white;
+background-color: #0009;
+height: 3.85cm;
+font-weight: 800;
+}
+
+.imp{ 
+    
+    background-image: url(../photos/IMPHAL.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.impi
+{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;
+}
+
+.tame{ 
+    
+    background-image: url(../photos/TAMENGLONG.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.tamei
+{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;
+}
+
+.chan{ 
+    
+    background-image: url(../photos/CHANDEL.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.chani
+{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;
+}
+
+.shi{ 
+    
+    background-image: url(../photos/SHILLONG.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.shil
+{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;
+}
+.che{ 
+    
+    background-image: url(../photos/Cherrapunji.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.chei
+{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;
+}
+.maw{ 
+    
+    background-image: url(../photos/MAWSYNRAM.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.mawi
+{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.botton{
+
+    border: 1px solid;
+    height: 1.3cm;
+    width: 5.5cm;
+    padding: 0.4cm;
+    background-color: khaki;
+    border-radius: 2cm;
+    font-size: 1cm;
+        font-family: 'Raleway', sans-serif;
+    
+    }
+    .copyright{
+        padding-top: 1cm;
+      background-color: lightcyan;
+      height: 1.5cm;
+      font-size: 0.5cm;
+      
+      
+      
+      }
+    

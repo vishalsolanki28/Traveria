@@ -1,0 +1,227 @@
+.NAVBAR{
+    background-color: lightcyan;
+    border-radius: 10px;
+    
+}
+    .NAVBAR ul{
+    
+    
+      overflow: auto;
+    }
+    .NAVBAR li a{
+    
+      padding:  1px 1px;
+    color: black;
+    text-decoration: none;
+    -ms-touch-action: manipulation;
+    
+    
+    }
+    
+    
+    .NAVBAR li{
+    
+      float: left;
+        list-style: none;
+        padding: 1px 1px;
+    margin: 20px 10px;
+ 
+      }
+      
+      
+      .buttons
+      {
+        
+        position: absolute;
+        right: 30px;
+        top: 18px;
+        color: black;
+        padding: 3px 3px;
+        margin: 20px 15px;
+      }
+.golghar{
+    background-image: url(../photos/golghar.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.golghari{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;    
+}
+
+.mahabodh{
+    background-image: url(../photos/mahabodhi.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.mahabodhi{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+color: white;
+background-color: #0009;
+height: 2.85cm;
+font-weight: 800;    
+}
+
+
+.giant{
+    background-image: url(../photos/giantbuddha.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.gianti{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;    
+}
+
+.rock{
+    background-image: url(../photos/rock.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.rocki{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+color: white;
+background-color: #0009;
+height: 2.85cm;
+font-weight: 800;    
+}
+
+
+.rose{
+    background-image: url(../photos/rose.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.rosei{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+color: white;
+background-color: #0009;
+height: 2.85cm;
+font-weight: 800;    
+}
+
+
+.sukh{
+    background-image: url(../photos/sukh.jpg   );
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.sukhi{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;    
+}
+
+.chit{
+    background-image: url(../photos/chit.jpg   );
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.chiti{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 1cm;
+color: white;
+background-color: #0009;
+height: 3.85cm;
+font-weight: 800;    
+}
+.bho{
+    background-image: url(../photos/bho.jpg   );
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.bhoi{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+color: white;
+background-color: #0009;
+height: 2.85cm;
+font-weight: 800;    
+}
+.kot{
+    background-image: url(../photos/kota.jpg   );
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.koti{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;    
+}
+
+.botton{
+
+    border: 1px solid;
+    height: 1.3cm;
+    width: 5.5cm;
+    padding: 0.4cm;
+    background-color: khaki;
+    border-radius: 2cm;
+    font-size: 1cm;
+        font-family: 'Raleway', sans-serif;
+    
+    }
+    .copyright{
+        padding-top: 1cm;
+      background-color: lightcyan;
+      height: 1.5cm;
+      font-size: 0.5cm;
+      
+      
+      
+      }
+    
+

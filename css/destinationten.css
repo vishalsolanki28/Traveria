@@ -1,0 +1,282 @@
+.NAVBAR{
+    background-color: lightcyan;
+    border-radius: 10px;
+    
+}
+    .NAVBAR ul{
+    
+    
+      overflow: auto;
+    }
+    .NAVBAR li a{
+    
+      padding:  1px 1px;
+    color: black;
+    text-decoration: none;
+    -ms-touch-action: manipulation;
+    
+    
+    }
+    
+    
+    .NAVBAR li{
+    
+      float: left;
+        list-style: none;
+        padding: 1px 1px;
+    margin: 20px 10px;
+ 
+      }
+      
+      
+      .buttons
+      {
+        
+        position: absolute;
+        right: 30px;
+        top: 18px;
+        color: black;
+        padding: 3px 3px;
+        margin: 20px 15px;
+      }
+.kai{
+    background-image: url(../photos/KAILASHAHAR.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.kail{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;    
+}
+
+.rud{
+     background-image: url(../photos/rudrasagar\ lake.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.rudi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800; 
+
+}
+.aga{ 
+    
+    background-image: url(../photos/AGARTALA.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.agai{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+.ayo{ 
+    
+    background-image: url(../photos/ayodhya.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.ayoi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+.taj{ 
+    
+    background-image: url(../photos/taj\ mahal.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.taji{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 3.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+.ban{ 
+    
+    background-image: url(../photos/banke\ bihari\ mandir.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.bani{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1cm;
+background-color: #0009;
+height: 3.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+.vic{ 
+    
+    background-image: url(../photos/victoria-memorial.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.vici{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+.dar{ 
+    
+    background-image: url(../photos/darjeeling.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.dari{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+
+.sun{ 
+    
+    background-image: url(../photos/Sundarbans-Forest-Nature.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.suni{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.botton{
+
+    border: 1px solid;
+    height: 1.3cm;
+    width: 5.5cm;
+    padding: 0.4cm;
+    background-color: khaki;
+    border-radius: 2cm;
+    font-size: 1cm;
+        font-family: 'Raleway', sans-serif;
+    
+    }
+    .copyright{
+        padding-top: 1cm;
+      background-color: lightcyan;
+      height: 1.5cm;
+      font-size: 0.5cm;
+      
+      
+      
+      }

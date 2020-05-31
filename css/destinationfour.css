@@ -1,0 +1,397 @@
+.NAVBAR{
+    background-color: lightcyan;
+    border-radius: 10px;
+    
+}
+    .NAVBAR ul{
+    
+    
+      overflow: auto;
+    }
+    .NAVBAR li a{
+    
+      padding:  1px 1px;
+    color: black;
+    text-decoration: none;
+    -ms-touch-action: manipulation;
+    
+    
+    }
+    
+    
+    .NAVBAR li{
+    
+      float: left;
+        list-style: none;
+        padding: 1px 1px;
+    margin: 20px 10px;
+ 
+      }
+      
+      
+      .buttons
+      {
+        
+        position: absolute;
+        right: 30px;
+        top: 18px;
+        color: black;
+        padding: 3px 3px;
+        margin: 20px 15px;
+      }
+.dudh{
+    background-image: url(../photos/dudh.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.dudhi {
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+color: white;
+background-color: #0009;
+height: 2.85cm;
+font-weight: 800;    
+}
+
+.agu{
+     background-image: url(../photos/aguada.jpeg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.agui{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800; 
+
+}
+.cala{ 
+    
+    background-image: url(../photos/calang.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.calai{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+.sabar{ 
+    
+    background-image: url(../photos/sabarmati.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.sabari{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+.gir{ 
+    
+    background-image: url(../photos/gir.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.giri{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+.adal{ 
+    
+    background-image: url(../photos/adalaj.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.adali{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+.king{ 
+    
+    background-image: url(../photos/king.jpeg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.kingi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+.mor{ 
+    
+    background-image: url(../photos/mourni.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.mori{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+.kuru{ 
+    
+    background-image: url(../photos/kuruk.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.kurui{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+.roh{ 
+    
+    background-image: url(../photos/rohtang.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.rohi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+.sol{ 
+    
+    background-image: url(../photos/solang.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.soli{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+.mall{ 
+    
+    background-image: url(../photos/mall.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.malli{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1.5cm;
+background-color: #0009;
+height: 2.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.botton{
+
+    border: 1px solid;
+    height: 1.3cm;
+    width: 5.5cm;
+    padding: 0.4cm;
+    background-color: khaki;
+    border-radius: 2cm;
+    font-size: 1cm;
+        font-family: 'Raleway', sans-serif;
+    
+    }
+    .copyright{
+        padding-top: 1cm;
+      background-color: lightcyan;
+      height: 1.5cm;
+      font-size: 0.5cm;
+      
+      
+      
+      }
+    

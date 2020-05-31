@@ -1,0 +1,312 @@
+.NAVBAR{
+    background-color: lightcyan;
+    border-radius: 10px;
+    
+}
+    .NAVBAR ul{
+    
+    
+      overflow: auto;
+    }
+    .NAVBAR li a{
+    
+      padding:  1px 1px;
+    color: black;
+    text-decoration: none;
+    -ms-touch-action: manipulation;
+    
+    
+    }
+    
+    
+    .NAVBAR li{
+    
+      float: left;
+        list-style: none;
+        padding: 1px 1px;
+    margin: 20px 10px;
+ 
+      }
+      
+      
+      .buttons
+      {
+        
+        position: absolute;
+        right: 30px;
+        top: 18px;
+        color: black;
+        padding: 3px 3px;
+        margin: 20px 15px;
+      }
+.aiz{
+    background-image: url(../photos/AIZAWL.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.aizi{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;    
+}
+
+.lun{
+     background-image: url(../photos/LUNGLEI.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.lungi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800; 
+
+}
+.sa{ 
+    
+    background-image: url(../photos/SAIHA.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.sai{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+.koh{ 
+    
+    background-image: url(../photos/KOHIMA.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.kohi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+.dim{ 
+    
+    background-image: url(../photos/DIMAPUR.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.dimi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+.shi{ 
+    
+    background-image: url(../photos/SHILLOI\ LAKE.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.sail{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+.pur{ 
+    
+    background-image: url(../photos/puri.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.puri{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+.bhu{ 
+    
+    background-image: url(../photos/bhu.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.bhui{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+.am{ 
+    
+    background-image: url(../photos/amritsar\ golden\ temple.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.ami{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+.wag{ 
+    
+    background-image: url(../photos/wagah\ border.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.wagi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+.rur{ 
+    
+    background-image: url(../photos/rural\ olympics.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.ruri{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.botton{
+
+    border: 1px solid;
+    height: 1.3cm;
+    width: 5.5cm;
+    padding: 0.4cm;
+    background-color: khaki;
+    border-radius: 2cm;
+    font-size: 1cm;
+        font-family: 'Raleway', sans-serif;
+    
+    }
+    .copyright{
+        padding-top: 1cm;
+      background-color: lightcyan;
+      height: 1.5cm;
+      font-size: 0.5cm;
+      
+      
+      
+      }
+    

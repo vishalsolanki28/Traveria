@@ -1,0 +1,198 @@
+
+.cont{
+  background-image: url(../photos/photography-india-temple-sun-wallpaper-preview.jpg);
+background-repeat: cover;
+background-size: cover;
+height: 600px;
+width: 100%;
+background-repeat: no-repeat fixed;
+transition: 0.5s;
+border:  0.1px solid;
+border-radius: 1cm;
+}
+.cont:hover{
+    transform: scale(1.1);
+}
+
+
+.NAVBAR{
+    background-color: lightcyan;
+    border-radius: 10px;
+    
+}
+    .NAVBAR ul{
+    
+    
+      overflow: auto;
+    }
+    .NAVBAR li a{
+    
+      padding:  1px 1px;
+    color: black;
+    text-decoration: none;
+    -ms-touch-action: manipulation;
+    
+    
+    }
+    
+    
+    .NAVBAR li{
+    
+      float: left;
+        list-style: none;
+        padding: 1px 1px;
+    margin: 20px 10px;
+ 
+      }
+      
+      
+      .buttons
+      {
+        
+        position: absolute;
+        right: 30px;
+        top: 18px;
+        color: black;
+        padding: 3px 3px;
+        margin: 20px 15px;
+      }
+          
+      .logo{
+        
+      text-align: center;
+      
+
+        }
+        .info{
+            background-color: #0009;
+	font-family: cursive;
+	color: white;
+	text-align: center;
+  height: 600px;
+  border: 0.1px solid;
+  border-radius: 1cm;
+        }
+
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+    /* max-width: 600px; */
+box-shadow: black;
+    border: 1px solid;
+width: 8cm;
+border-radius: 1cm;
+background-color: #e67e22;
+  }
+
+  .imgab{
+    font-family: 'Raleway', sans-serif;
+background-color: lightcyan;
+height: 9.5cm;
+padding-top: 1cm;
+text-align: center;
+
+  }
+.contact{
+
+  border: 1.5px solid;
+  width: 8cm;
+font-size: 1.1cm;
+border-radius: 0.5cm;
+
+}
+.contact a{
+  text-decoration: none;
+  color: black;
+}
+
+.imgcontnr{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.one img{
+  margin:5px;
+  width: 400px;
+  height: 250px;
+transition: 0.3s;
+
+}
+.one img:hover{
+  transform: scale(1.1);
+}
+
+.but{
+text-align: center;
+font-size: 2.5cm;
+
+  color: black;
+  font-weight: lighter;
+}
+.butin{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.infoa,.infob,.infoc{
+   margin:5px;
+  width: 400px;
+  height: 250px; 
+  padding-top: 1cm;
+
+
+align-items: center;
+justify-content: center;
+}
+.infob{
+  padding-left: 3cm;
+}
+#team{
+  background-color: lightgoldenrodyellow;
+  display: block;
+  align-items: center;
+  justify-content: center;
+height: 57cm;
+}
+#team img{
+  padding-top: 1cm;
+  margin:5px;
+  width: 250px;
+  height: 350px;
+  border-radius: 10cm;
+
+
+}
+input{
+  height: 1cm;
+  width: 4cm;
+  background-color: whitesmoke;
+}
+form{
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.butnf{
+border: 2px solid;
+width: 5cm;
+font-weight: bold;
+cursor: progress;
+
+
+
+}
+.copyright{
+  padding-top: 1cm;
+background-color: lightcyan;
+height: 1.5cm;
+font-size: 0.5cm;
+
+
+
+}

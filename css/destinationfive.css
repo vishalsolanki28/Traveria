@@ -1,0 +1,335 @@
+.NAVBAR{
+    background-color: lightcyan;
+    border-radius: 10px;
+    
+}
+    .NAVBAR ul{
+    
+    
+      overflow: auto;
+    }
+    .NAVBAR li a{
+    
+      padding:  1px 1px;
+    color: black;
+    text-decoration: none;
+    -ms-touch-action: manipulation;
+    
+    
+    }
+    
+    
+    .NAVBAR li{
+    
+      float: left;
+        list-style: none;
+        padding: 1px 1px;
+    margin: 20px 10px;
+ 
+      }
+      
+      
+      .buttons
+      {
+        
+        position: absolute;
+        right: 30px;
+        top: 18px;
+        color: black;
+        padding: 3px 3px;
+        margin: 20px 15px;
+      }
+.vai{
+    background-image: url(../photos/vaish.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+}
+.vaii{
+    font-size: 1.5cm;
+     font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800;    
+}
+
+.amar{
+     background-image: url(../photos/amar.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+
+.amari{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+color: white;
+background-color: #0009;
+height: 1.85cm;
+font-weight: 800; 
+
+}
+.gul{ 
+    
+    background-image: url(../photos/gul.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.guli{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+.dim{ 
+    
+    background-image: url(../photos/dim.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.dimi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+
+.panch{ 
+    
+    background-image: url(../photos/panch.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.panchi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1cm;
+background-color: #0009;
+height: 3.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+.haz{ 
+    
+    background-image: url(../photos/hazar.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.hazii{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1cm;
+background-color: #0009;
+height: 3.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+.coo{ 
+    
+    background-image: url(../photos/coorg.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.cooi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+.chik{ 
+    
+    background-image: url(../photos/Chikmagalur.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.chiki{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 2cm;
+background-color: #0009;
+height: 1.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+.band{ 
+    
+    background-image: url(../photos/Bandipur\ national\ park.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.bandi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1cm;
+background-color: #0009;
+height: 3.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+
+
+
+.mun{ 
+    
+    background-image: url(../photos/munnar.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.muni{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1cm;
+background-color: #0009;
+height: 3.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+
+
+.way{ 
+    
+    background-image: url(../photos/wayanad.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.wayi{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1cm;
+background-color: #0009;
+height: 3.85cm;
+color: white;
+font-weight: 800;
+}
+
+
+
+
+
+
+.var{ 
+    
+    background-image: url(../photos/varkala.jpg);
+    background-repeat: cover;
+    background-size: cover;
+	height: 220px;
+	width: 50%;
+    background-repeat: no-repeat fixed;
+
+}
+.vari{
+    font-size: 1.5cm;
+    font-family: 'Raleway', sans-serif;
+padding: 1cm;
+background-color: #0009;
+height: 3.85cm;
+color: white;
+font-weight: 800;
+}
+
+.botton{
+
+    border: 1px solid;
+    height: 1.3cm;
+    width: 5.5cm;
+    padding: 0.4cm;
+    background-color: khaki;
+    border-radius: 2cm;
+    font-size: 1cm;
+        font-family: 'Raleway', sans-serif;
+    
+    }
+    .copyright{
+        padding-top: 1cm;
+      background-color: lightcyan;
+      height: 1.5cm;
+      font-size: 0.5cm;
+      
+      
+      
+      }
+    
